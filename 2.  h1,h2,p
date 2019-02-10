@@ -1,0 +1,12 @@
+#h1 for main heading
+#h2 for sub heading
+#p for paragraph
+
+<h1>Hello World</h1>
+<h2>CatPhotoApp</h2>
+<p>Hello Paragraph</p>
+
+###output
+Hello World
+CatPhotoApp
+Hello Paragraph
